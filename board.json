@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-11",
+  "notice": null,
+  "apps": [
+    {
+      "id": "pointcard",
+      "name": "あなたの店にもポイントカード QC",
+      "tagline": "お店のポイントカードを、スマホの中に",
+      "appStoreId": 6778719746,
+      "regions": ["JP"]
+    },
+    {
+      "id": "eisei",
+      "name": "衛生手帳",
+      "tagline": "お店の衛生チェックを、毎日サッと記録",
+      "appStoreId": 6788588449,
+      "regions": ["JP"]
+    },
+    {
+      "id": "pairsta",
+      "name": "Pairsta",
+      "tagline": "ふたりだけの、ひみつのSNS",
+      "appStoreId": 6781987179,
+      "regions": ["JP"]
+    }
+  ]
+}
