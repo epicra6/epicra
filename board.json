@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-11",
+  "updatedAt": "2026-09-21",
   "notice": null,
   "apps": [
     {
@@ -22,6 +22,13 @@
       "name": "Pairsta",
       "tagline": "ふたりだけの、ひみつのSNS",
       "appStoreId": 6781987179,
+      "regions": ["JPN"]
+    },
+    {
+      "id": "pochiga",
+      "name": "ポチ画",
+      "tagline": "写真1枚から、なりたい世界へ",
+      "appStoreId": 6804683151,
       "regions": ["JPN"]
     }
   ]
