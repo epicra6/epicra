@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-21",
+  "updatedAt": "2026-10-13",
   "notice": null,
   "apps": [
     {
@@ -29,6 +29,13 @@
       "name": "ポチ画",
       "tagline": "写真1枚から、なりたい世界へ",
       "appStoreId": 6804683151,
+      "regions": ["JPN"]
+    },
+    {
+      "id": "snowtrick",
+      "name": "Snow Trick",
+      "tagline": "スノボの技、できた瞬間を記録",
+      "appStoreId": 6797332950,
       "regions": ["JPN"]
     }
   ]
