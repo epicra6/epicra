@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13",
+  "updatedAt": "2026-10-29",
   "notice": null,
   "apps": [
     {
@@ -36,6 +36,13 @@
       "name": "Snow Trick",
       "tagline": "スノボの技、できた瞬間を記録",
       "appStoreId": 6797332950,
+      "regions": ["JPN"]
+    },
+    {
+      "id": "haishinboard",
+      "name": "配信案内ボード",
+      "tagline": "曲リストや予定を、置いて流せる",
+      "appStoreId": 6824547997,
       "regions": ["JPN"]
     }
   ]
